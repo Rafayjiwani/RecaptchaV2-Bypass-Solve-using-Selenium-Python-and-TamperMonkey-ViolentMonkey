@@ -5,8 +5,11 @@ Automating tasks in web browsers can significantly improve productivity and effi
 
 **Important Steps:**
 Download Extension : [Chrome_Extension_Link](https://chromewebstore.google.com/detail/crx-extractordownloader/ajkhmmldknmfjnmeedkbkkojgobmljda)
+
 Then go to ViolentMonkey or TamperMonkey Extension on chrome web store : [Click Here](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
 Now download the extension zip file by clicking on CRX extractor Extension "Download as Zip"
+
 Extract that zip and put the path of extension folder into the code below.
 
 **Prerequisites**
