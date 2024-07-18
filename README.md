@@ -4,13 +4,10 @@
 Automating tasks in web browsers can significantly improve productivity and efficiency. One powerful way to achieve this is by using TamperMonkey or ViolentMonkey to inject custom JavaScript into web pages. In this article, we will walk through a detailed process of bypassing or solving RecaptchaV2 using Selenium in Python. By the end of this guide, you will be able to load a JavaScript file into TamperMonkey or ViolentMonkey using Selenium, making your automation scripts even more powerful.
 
 **Important Steps:**
-Download Extension : [Chrome_Extension_Link](https://chromewebstore.google.com/detail/crx-extractordownloader/ajkhmmldknmfjnmeedkbkkojgobmljda)
-
-Then go to ViolentMonkey or TamperMonkey Extension on chrome web store : [Click Here](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-
-Now download the extension zip file by clicking on CRX extractor Extension "Download as Zip"
-
-Extract that zip and put the path of extension folder into the code below.
+- Download Extension : [Chrome_Extension_Link](https://chromewebstore.google.com/detail/crx-extractordownloader/ajkhmmldknmfjnmeedkbkkojgobmljda)
+- Then go to ViolentMonkey or TamperMonkey Extension on chrome web store : [Click Here](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- Now download the extension zip file by clicking on CRX extractor Extension "Download as Zip"
+- Extract that zip and put the path of extension folder into the code below.
 
 **Prerequisites**
 
